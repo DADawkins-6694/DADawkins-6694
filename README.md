@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+## I am always learning new skills, and if I can help you, I will. 
+## A Jack-of-all-trades is a master of none, but often better than a master of one.
 
 <!--
 **DADawkins-6694/DADawkins-6694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
