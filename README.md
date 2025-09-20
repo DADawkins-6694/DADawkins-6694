@@ -1,6 +1,7 @@
 ## Hello there 👋 I am
 # 👨‍💻 Daniel A. Dawkins  
 **IT Systems & Process Improvement Consultant | Cybersecurity Professional**   Louisville Metropolitan Area, KY 
+#
 I am always learning new skills, and if I can help you, I will. 
 A Jack-of-all-trades is a master of none, but often better than a master of one. 
 ---
