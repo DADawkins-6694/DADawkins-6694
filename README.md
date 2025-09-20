@@ -1,12 +1,10 @@
 ## Hello there 👋
-I am always learning new skills, and if I can help you, I will. 
-#
--A Jack-of-all-trades is a master of none, but often better than a master of one. 
-#
 I am
 # 👨‍💻 Daniel A. Dawkins  
-**IT Systems & Process Improvement Manager | Cybersecurity Professional**   Louisville Metropolitan Area, KY 
-
+**IT Systems & Process Improvement Consultant | Cybersecurity Professional**   Louisville Metropolitan Area, KY 
+I am always learning new skills, and if I can help you, I will. 
+#
+A Jack-of-all-trades is a master of none, but often better than a master of one. 
 ---
 
 ## 📜 Certifications
@@ -71,4 +69,4 @@ I am
 
 ---
 
-***This repository serves as a living portfolio highlighting my experience and ongoing professional development in HTML, CSS, JavaScript, Python.***
+***This repository serves as a living portfolio highlighting my experience and ongoing professional development in HTML, CSS, JavaScript, Python and other coding languages.***
