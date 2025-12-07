@@ -9,7 +9,8 @@ A Jack-of-all-trades is a master of none, but often better than a master of one.
 ## 📜 Certifications
 
 - **CompTIA:** A+, Network+, Security+, Cyber Security Analyst+ (CySA+)
-- **CompTIA Stacked:** IT Operations Specialist (CIOS), Secure Infrastructure Specialist (CSIS), CompTIA Security Analytics Professional (CSAP)  
+- **CompTIA Stacked:** IT Operations Specialist (CIOS), Secure Infrastructure Specialist (CSIS), CompTIA Security Analytics Professional (CSAP)
+- ITIL v4 Practitioner
 - Lean Six Sigma Master Black Belt 
 - Lean Six Sigma Instructor  
 - Military Agile Scrum Master
